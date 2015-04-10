@@ -1,0 +1,37 @@
+nav, footer {
+	clear: both;
+	color: #ffffff;
+	background-color: #3366FF;
+	height: 30px;}
+nav ul {
+	margin: 0px;
+	padding: 5px 0px 5px 30px;}
+nav li {
+	display: inline;
+	margin-right: 40px;}
+nav li a {
+	color: white;}
+nav li a:hover{
+	color: #000000;}
+nav li a.current {
+	color: #000000;}
+
+.home, h1 {
+	font-size: 50px;
+	text-align: center;
+	font-family: serif;
+	color: white;
+	font-weight: normal;
+}
+
+.home, h2 {
+	font-size: 20px;
+	text-align: center;
+	font-family: serif;
+	font-weight: normal;
+	color: white;
+}
+
+.home{
+	background: #3366FF;
+}
